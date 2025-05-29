@@ -1,3 +1,3 @@
-# front-end-project
+# My Event Ticket
 
-A dynamic HTML, CSS, and TypeScript solo project.
+A web application for live event enthusiasts who want to search for entertainment in their area.
