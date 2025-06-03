@@ -1,5 +1,4 @@
-/* exported data */
-// this is where you will be putting your data model and saving it to localStorage if necessary //
+// this is where I will be saving user data to localStorage
 
 interface Favorites {
   date: string;
