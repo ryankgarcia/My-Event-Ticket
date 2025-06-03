@@ -4,7 +4,7 @@ A web application for live event enthusiasts who want to search for entertainmen
 
 ## Why I Built This
 
-I built this application because since I've been old enough to go to concerts, they have been my **favorite** form of entertainment. While this application is not only limited to concerts, my goal was to create an app that makes calls to an API to retrieve data from an external source. My favorite part about working on this project was the challenge of getting things to look comparable on mobile and desktop while formatting the data from an API call and translating that into a favorable user experience. My biggest take away from this project is that working on a mobile design first allows the ease of utilizing extra space when using an app on larger view ports.
+Since I've been old enough to go to concerts, they have been my **favorite** form of entertainment. While this application is not only limited to concerts, my goal was to create an app that makes calls to an API to retrieve data from an external source. My favorite part about working on this project was the challenge of getting things to look comparable on mobile and desktop and translating that into a favorable user experience. My biggest take away from this project is that working on a mobile first design requires proper planning in order to account for the extra space on larger view ports.
 
 ## Technologies Used
 
@@ -24,6 +24,8 @@ Try the application live at https://ryankgarcia.github.io/My-Event-Ticket/
 - Users can save events they are interested in attending
 
 ### Preview
+
+(src/my-event-ticket-preview.gif)
 
 ### Project Assistance
 
