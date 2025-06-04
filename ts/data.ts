@@ -1,5 +1,4 @@
 // this is where I will be saving user data to localStorage
-
 interface Favorites {
   date: string;
   name: string;
