@@ -25,7 +25,7 @@ Try the application live at https://ryankgarcia.github.io/My-Event-Ticket/
 
 ### Preview
 
-(src/my-event-ticket-preview.gif)
+(src/my-event-ticket-preview-o.gif)
 
 ### Project Assistance
 
